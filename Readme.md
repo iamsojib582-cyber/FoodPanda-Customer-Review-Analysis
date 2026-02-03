@@ -28,9 +28,6 @@ service quality issues, and unusual reviewer activity on a food delivery platfor
 **Insight:** Food and delivery ratings both contribute to low overall scores  
 **Business Value:** Highlights need for vendor and rider performance improvement
 
-## 📈 Dashboard Highlights
-(Insert images here)
-
 ## 📂 Repository Structure
 - Schema: Database design
 - Tables: Cleaned tables
@@ -41,3 +38,4 @@ service quality issues, and unusual reviewer activity on a food delivery platfor
 - Identified peak review activity windows
 - Flagged suspicious reviewer behavior
 - Highlighted cities needing service improvement
+
